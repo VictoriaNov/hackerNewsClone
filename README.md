@@ -1,7 +1,7 @@
-# hackerNewsClone
-Hacker News Clone created using React
+# pet-HackerNews
+Hacker News website
 # Technologies Stack
-React, React Router DOM, SCSS, API: https://github.com/HackerNews/API
+React, React Router DOM, SCSS, Hacker News API: https://github.com/HackerNews/API
 # Instructions
 ### `npm install` to download the dependencies
 ### `npm start` to run the app
